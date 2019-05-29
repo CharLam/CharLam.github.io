@@ -1,2 +1,4 @@
 name: Charmian Lam, Awesome Person
 markdown: question
+
+permalink: /blog/:year/:month/:day/:title
